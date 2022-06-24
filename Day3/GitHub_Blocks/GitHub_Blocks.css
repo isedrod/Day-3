@@ -1,0 +1,49 @@
+body {
+  background-color: rgba(207, 207, 193, 0.514);
+  font-family: sans-serif;
+}
+img {
+  height: 200px;
+  padding: 15px
+}
+
+
+h1 {
+  font-size: 40px;
+  color: rgb(71, 76, 80);
+  display: flex;
+  justify-content: center;
+}
+
+.Cats1 {
+    flex: ;
+    background-color: rgb(115, 224, 238);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+.Cats2 {
+  margin-top: 20px;
+  background-color: rgb(218, 163, 213);
+
+  display: flex;
+  align-items: center;
+  justify-content:space-evenly
+}
+.Cats3 {
+  margin-top: 20px;
+  background-color: rgb(112, 94, 94);
+
+  display: flex;
+  align-items: center;
+  justify-content:space-between
+}
+footer {
+  color: rgb(110, 115, 121);
+  margin-top: 20px;
+  text-align:center;
+}
+a {
+  color: rgb(128, 221, 221);
+}
